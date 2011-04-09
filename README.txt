@@ -10,9 +10,7 @@ to include the following:
 4) OpenSSH
 5) A LAMP Stack including: apache2, mysql-server, php5, php-pear, php5-gd, php5-mysql, php5-imagick, php5-curl,
    curl, phpmyadmin, rsync, and cronlog
-6)  
- 
-
+   
 It also includes a working Florida DrupalCamp Drupal 7 installation to use for the beginner sessions.
 
 This came about due to the overhead required to install and configure MAMP/XAMPP on beginner's computers
@@ -30,4 +28,7 @@ The local web server can be accessed at http://localhost/drupa
 
 The Drupal installation admin user name is admin and the password is also admin.
 It can be found at http://localhost/drupal/drupal
+
+Crunchbang was chosen for its lean operating system and wide hardware compatibility. It also includes a large
+amount of software in a handy install script.
 
